@@ -1,0 +1,4 @@
+torch==1.7.1
+einops==0.8.0
+numpy==1.23.5
+liac-arff==2.5.0
